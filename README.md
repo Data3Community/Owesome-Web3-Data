@@ -43,8 +43,6 @@ Table of Contents
 
 ## Projects
 
----
-
 ### Data Sources
 - Decentralized Database
   - [Kwil](https://www.kwil.com/)
